@@ -29,7 +29,7 @@
 
 **ARCHITECTURAL INTERN + GRAPHICS SPECIALIST** &nbsp;&nbsp; _Apr 2012-Sept 2016_
 <br />
-***LJA Architects & Engineers*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Fargo, ND_ 
+***LJA Architects & Engineers*** &nbsp;&nbsp;_Fargo, ND_ 
   - Design 20­-40 minute modules to teach children (grades 1​ through 12​) different subjects, including meteorology, physics, geology, astronomy, and biology
   - Teach local school groups of 20-­30 children (grades 1​ through 12​) about scientific principles
 through handsn activities
