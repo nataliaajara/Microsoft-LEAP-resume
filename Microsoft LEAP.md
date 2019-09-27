@@ -41,8 +41,9 @@ through hands­ on activities
 
 ## _Education_
 **UDemy**
-  - *User Experience Design Essentials | 2019*
-  - *Principles + Practices of Great UI Design | 2019*
+<br />
+*User Experience Design Essentials | 2019* <br />
+*Principles + Practices of Great UI Design | 2019*
   
 **North Dakota State University**
 <br />
