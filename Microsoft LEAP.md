@@ -8,9 +8,9 @@
 
 ## _Work Experience_
 
-**PROJECT ARCHITECT** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _August 2017-May 2019_
+**PROJECT ARCHITECT** &nbsp;&nbsp; _August 2017-May 2019_
 <br />
-***Patano Studio Architecture*** &nbsp;&nbsp;_Seattle, WA_ 
+***Patano Studio Architecture*** &nbsp;&nbsp;_Seattle, WA_
   - Assist teachers in implementing curriculum
   - Work one-on-one with students who need additional support
   - Provide additional social, emotional, and academic support during the Extended Day program after school
