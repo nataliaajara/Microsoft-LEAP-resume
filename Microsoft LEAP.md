@@ -40,9 +40,9 @@ through hands­ on activities
 ***
 
 ## _Education_
-**UDemy** &nbsp;&nbsp;  _2019_
+**UDemy**
 <br />
-*Fundamentals of User Experience* 
+*Fundamentals of User Experience Design | 2019* 
   
 **North Dakota State University**
 <br />
@@ -50,11 +50,11 @@ through hands­ on activities
   
 **University of Utah** &nbsp;&nbsp;  _2006-2008_
 <br />
-*B.S. in Architecture*
+*B.S. in Architecture | 2008*
   
 **Salt Lake Community College**
 <br />
-*A.S. in Architecture*
+*A.S. in Architecture | 2006*
   
 ## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
