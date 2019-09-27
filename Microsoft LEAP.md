@@ -10,12 +10,15 @@
 
 **Project Architect** &nbsp; | &nbsp; _August 2017 - May 2019_
 <br />
-_Patano Studio Architecture_ | _Seattle, WA_
+_**Patano Studio Architecture**_ | _Seattle, WA_ 
   - Assist teachers in implementing curriculum
   - Work one-on-one with students who need additional support
   - Provide additional social, emotional, and academic support during the Extended Day program after school
   - Review and grade student work
   - Ensure that all materials are ready as needed for classroom work
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
 
 **Resident Teacher** &nbsp; _August 2015-June 2016_
 <br />
