@@ -1,8 +1,10 @@
 <h1 align="center"> NATALIA JARA </h1>
-<h5 align="center"> Seattle, WA 98119 | (701) 318 - 8954 | <a href="mailto:nataliaajara@gmail.com">nataliaajara@gmail.com</a> | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></h5>
 
 ***
 
+<h5 align="center"> Seattle, WA 98119 | (701) 318 - 8954 | <a href="mailto:nataliaajara@gmail.com">nataliaajara@gmail.com</a> | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></h5>
+
+***
 
 ## _Work Experience_
 
@@ -38,11 +40,10 @@ through hands­ on activities
 ***
 
 ## _Education_
-**North Dakota State University** &nbsp; | _2014 - 2017_
+**North Dakota State University** &nbsp;&nbsp; | _2014 - 2017_
 <br />
 - Master of Architecture
-  - _Peter F. McKenzie Award Finalist (2nd place)_
-    - _Outstanding Design Thesis in Architecture_
+  
 ## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
   - Mock portfolio webpage created using HTML, CSS, and bootstrap
