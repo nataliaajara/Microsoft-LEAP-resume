@@ -40,21 +40,17 @@ through hands­ on activities
 ***
 
 ## _Education_
-**UDemy**
-<br />
-*User Experience Design Essentials | 2019* <br />
-*Principles + Practices of Great UI Design | 2019*
+**UDemy** <br />
+*User Experience Design Essentials - Adobe XD UI UX Design | 2019* <br />
+*Principles + Practices of Great UI Design: Strategy, Design, Development | 2019* <br />
   
-**North Dakota State University**
-<br />
+**North Dakota State University** <br />
   *Master of Architecture | 2014-2017*  
   
-**University of Utah**
-<br />
+**University of Utah** <br />
 *B.S. in Architecture | 2008*
   
-**Salt Lake Community College**
-<br />
+**Salt Lake Community College** <br />
 *A.S. in Architecture | 2006*
   
 ## _Projects_
