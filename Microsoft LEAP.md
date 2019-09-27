@@ -27,9 +27,9 @@
   - Work with other faculty on Technology and Communication Committee
   - Write detailed reports for students evaluating writing, math, reading, and reflective thinking skills
 
-**Science Outreach Educator** &nbsp; _May 2014-May 2015_
+**ARCHITECTURAL INTERN + GRAPHICS SPECIALIST** &nbsp;&nbsp; _Apr 2012-Sept 2016_
 <br />
-_Colgate University_, _Hamilton, NY_
+***LJA Architects & Engineers*** &nbsp;&nbsp;_Fargo, ND_ 
   - Design 20­-40 minute modules to teach children (grades 1​ through 12​) different subjects, including meteorology, physics, geology, astronomy, and biology
   - Teach local school groups of 20-­30 children (grades 1​ through 12​) about scientific principles
 through handsn activities
