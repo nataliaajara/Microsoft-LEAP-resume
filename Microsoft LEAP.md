@@ -1,11 +1,12 @@
 <h1 align="center"> NATALIA JARA </h1>
-
 <h5 align="center"> Seattle, WA 98119 | (701) 318 - 8954 | nataliaajara@gmail.com | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></h5>
 
 
 
+<h2> <em>_Work Experience_</em> </h2>
 
-### _Work Experience_
+## _Work Experience_
+
 **Project Architect** &nbsp; _August 2017 - May 2019_
 <br />
 _Patano Studio Architecture_ | _Seattle, WA_
