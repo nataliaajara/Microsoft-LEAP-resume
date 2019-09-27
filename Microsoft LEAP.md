@@ -1,12 +1,8 @@
-# <p align="center">NATALIA JARA</p>
-***
-<p align="center">
-818 W Crocket St Apt 204, Seattle, WA 98119
-</p>
-<p align="center">
-Phone: 215-806-8039
-Github: nataliaajara
-Email: nataliaajara@gmail.com</p>
+<h1 align="center"> NATALIA JARA </h1>
+
+<p align="center"> Seattle, WA 98119 | (701) 318 - 8954 | nataliaajara@gmail.com | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></p>
+
+
 
 
 ### _Work Experience_
