@@ -40,7 +40,7 @@ through hands­ on activities
 ***
 
 ## _Education_
-**North Dakota State University** &nbsp;&nbsp;  _2014 - 2017_
+**North Dakota State University** &nbsp;&nbsp;  _2014-2017_
 <br />
 - Master of Architecture
   
