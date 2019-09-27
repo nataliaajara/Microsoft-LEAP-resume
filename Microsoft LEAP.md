@@ -40,7 +40,13 @@ through hands­ on activities
 ***
 
 ## _Education_
-**North Dakota State University** &nbsp;&nbsp;  [_2014-2017_]
+**North Dakota State University** &nbsp;&nbsp;  _2014-2017_
+  - Master of Architecture  
+  
+**UNIVERSITY OF UTAH** &nbsp;&nbsp;  _2006-2008_
+  - Bachelor of Science in Architecture
+  
+**North Dakota State University** &nbsp;&nbsp;  _2014-2017_
   - Master of Architecture
   
 ## _Projects_
