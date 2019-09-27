@@ -38,11 +38,9 @@ through hands­ on activities
 ***
 
 ## _Education_
-**North Dakota State University** &nbsp; _May 2015_
+**North Dakota State University** &nbsp; _May 2017_
 <br />
-_GPA: 3.66_
   - Master of Architecture (M.ARCH)
-    - Environmental Geology
 
 ## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
