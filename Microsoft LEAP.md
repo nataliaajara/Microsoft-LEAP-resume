@@ -1,14 +1,14 @@
 <h1 align="center"> NATALIA JARA </h1>
 
-<p align="center"> Seattle, WA 98119 | (701) 318 - 8954 | nataliaajara@gmail.com | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></p>
+<h5 align="center"> Seattle, WA 98119 | (701) 318 - 8954 | nataliaajara@gmail.com | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></h5>
 
 
 
 
 ### _Work Experience_
-**Elementary Center Instructional Assistant** &nbsp; _August 2016-present_
+**Project Architect** &nbsp; _August 2017 - May 2019_
 <br />
-_St Thomas School_, _Medina, WA_
+_Patano Studio Architecture_ | _Seattle, WA_
   - Assist teachers in implementing curriculum
   - Work one-on-one with students who need additional support
   - Provide additional social, emotional, and academic support during the Extended Day program after school
