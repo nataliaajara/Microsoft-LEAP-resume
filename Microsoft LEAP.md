@@ -40,8 +40,8 @@ through hands­ on activities
 ## _Education_
 **North Dakota State University** &nbsp; _May 2017_
 <br />
-  - Master of Architecture (M.ARCH)
-
+- Master of Architecture
+  - Peter F.
 ## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
   - Mock portfolio webpage created using HTML, CSS, and bootstrap
