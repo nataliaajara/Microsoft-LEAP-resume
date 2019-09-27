@@ -3,9 +3,7 @@
 
 
 
-<h2> <em>_Work Experience_</em> </h2>
-
-## _Work Experience_
+<h2> <em>Work Experience</em> </h2>
 
 **Project Architect** &nbsp; _August 2017 - May 2019_
 <br />
