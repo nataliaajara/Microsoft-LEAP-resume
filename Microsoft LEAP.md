@@ -17,12 +17,11 @@
   - Review and grade student work
   - Ensure that all materials are ready as needed for classroom work
 
-**Resident Teacher** &nbsp; _August 2015-June 2016_
+**ARCHITECTURAL DESIGNER** &nbsp;&nbsp; _Nov 2016-May 2017_
 <br />
- _University Child Development School_, _Seattle, WA_
+***Shultz + Associate Architects*** &nbsp;&nbsp;_Fargo, ND_ 
   - Collaborate with senior teachers to design and implement challenging curricula,​ a​nd reflect on the process and results
   - Create individualized goals for each student and provide personalized support
-  - Explore multiple teaching skills and techniques, including Visual Thinking Strategies, behavior management using non-directives, and math using narrative and manipulatives
   - Co­lead Extended Day Program one morning each week
   - Provide homework support at Home Learning and Thinking Club a few times per month
   - Work with other faculty on Technology and Communication Committee
@@ -33,7 +32,7 @@
 _Colgate University_, _Hamilton, NY_
   - Design 20­-40 minute modules to teach children (grades 1​ through 12​) different subjects, including meteorology, physics, geology, astronomy, and biology
   - Teach local school groups of 20-­30 children (grades 1​ through 12​) about scientific principles
-through hands­ on activities
+through handsn activities
   - Lead weekly tours through the Colgate geology museum for school groups and community members to become engaged
   - Collaborate with other science outreach educators and supervisor to design schedule of activities suitable for the age and interests of different school groups
 
