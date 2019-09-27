@@ -65,7 +65,13 @@ through handsn activities
 ***
 
 ## _Skills_
-**Portfolio Bootstrap Website** &nbsp; _Summer 2016_
-  - Mock portfolio webpage created using HTML, CSS, and bootstrap
+**Software**
+  - Adobe XD, Illustrator, InDesign, Photoshop, SketchUp, AutoCAD, Revit, ArchiCAD, 3DStudio Max, Rhino, Grasshopper
+
+**Design**
+  - Adobe XD, Illustrator, InDesign, Photoshop, SketchUp, AutoCAD, Revit, ArchiCAD, 3DStudio Max, Rhino, Grasshopper
+  
+**Languages**
+  - English (bilingual), Spanish (native).
   
 
