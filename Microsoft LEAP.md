@@ -1,6 +1,6 @@
 <h1 align="center"> NATALIA JARA </h1>
-<h5 align="center"> Seattle, WA 98119 | (701) 318 - 8954 | nataliaajara@gmail.com | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></h5>
-
+<h5 align="center"> Seattle, WA 98119 | (701) 318 - 8954 | <a href="mailto:nataliaajara@gmail.com">nataliaajara@gmail.com</a> | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></h5>
+<p align="center"> Seattle, WA | (323) 482-7366 | <a href="mailto:nicksc423@gmail.com">nicksc423@gmail.com</a> | <a href="https://github.com/nicksc423">GitHub.com/nicksc423</a></p>
 ***
 
 
