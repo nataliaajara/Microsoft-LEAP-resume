@@ -10,7 +10,7 @@
 
 **PROJECT ARCHITECT** &nbsp;&nbsp; _August 2017-May 2019_
 <br />
-_*Patano Studio Architecture*_ | _Seattle, WA_ 
+_**Patano Studio Architecture**_ | _Seattle, WA_ 
   - Assist teachers in implementing curriculum
   - Work one-on-one with students who need additional support
   - Provide additional social, emotional, and academic support during the Extended Day program after school
