@@ -45,6 +45,7 @@ through hands­ on activities
   
 **North Dakota State University** &nbsp;&nbsp;  _2014-2017_
 <br />
+
 *Master of Architecture*  
   
 **University of Utah** &nbsp;&nbsp;  _2006-2008_
