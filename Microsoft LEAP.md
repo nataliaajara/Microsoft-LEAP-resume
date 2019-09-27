@@ -41,7 +41,7 @@ through hands­ on activities
 **North Dakota State University** &nbsp; _May 2017_
 <br />
 - Master of Architecture
-  - _Peter F. McKenzie Award Finalist (2nd place)| Outstanding Design Thesis in Architecture_
+  - _Peter F. McKenzie Award Finalist (2nd place)_
     - _Outstanding Design Thesis in Architecture_
 ## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
