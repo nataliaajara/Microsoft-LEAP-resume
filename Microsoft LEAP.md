@@ -4,7 +4,7 @@
 ***
 
 
-<h2> <em>Work Experience</em> </h2>
+## _Work Experience_
 
 **Project Architect** &nbsp; _August 2017 - May 2019_
 <br />
@@ -35,15 +35,16 @@ through hands­ on activities
   - Lead weekly tours through the Colgate geology museum for school groups and community members to become engaged
   - Collaborate with other science outreach educators and supervisor to design schedule of activities suitable for the age and interests of different school groups
 
+***
 
-### _Education_
-**Colgate University** &nbsp; _May 2015_
+## _Education_
+**North Dakota State University** &nbsp; _May 2015_
 <br />
 _GPA: 3.66_
-  - Bachelor of Arts
+  - Master of Architecture (M.ARCH)
     - Environmental Geology
 
-### _Projects_
+## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
   - Mock portfolio webpage created using HTML, CSS, and bootstrap
   
