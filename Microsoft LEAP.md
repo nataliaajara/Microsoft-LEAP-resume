@@ -8,7 +8,7 @@
 
 ## _Work Experience_
 
-**PROJECT ARCHITECT** &nbsp;&nbsp; _August 2017-May 2019_
+**PROJECT ARCHITECT** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _August 2017-May 2019_
 <br />
 ***Patano Studio Architecture*** &nbsp;&nbsp;_Seattle, WA_ 
   - Assist teachers in implementing curriculum
