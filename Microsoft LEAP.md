@@ -38,6 +38,15 @@ through handsn activities
 
 ***
 
+## _Projects_
+**Portfolio Bootstrap Website** &nbsp; _Summer 2016_
+  - Mock portfolio webpage created using HTML, CSS, and bootstrap
+  
+**Recipe Sorter Webpage** &nbsp; _Summer 2016_
+  - Webpage with recipes sorted by category, with images and links to the original recipe website.
+  
+***
+
 ## _Education_
 **UDemy** <br />
 &nbsp;&nbsp;*User Experience Design Essentials - Adobe XD UI UX Design | 2019* <br />
@@ -52,10 +61,11 @@ through handsn activities
   
 **Salt Lake Community College** <br />
 &nbsp;&nbsp;*A.S. in Architecture | 2006*
-  
-## _Projects_
+
+***
+
+## _Skills_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
   - Mock portfolio webpage created using HTML, CSS, and bootstrap
   
-**Recipe Sorter Webpage** &nbsp; _Summer 2016_
-  - Webpage with recipes sorted by category, with images and links to the original recipe website.
+
