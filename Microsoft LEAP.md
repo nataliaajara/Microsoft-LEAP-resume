@@ -17,9 +17,6 @@
   - Review and grade student work
   - Ensure that all materials are ready as needed for classroom work
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
 **Resident Teacher** &nbsp; _August 2015-June 2016_
 <br />
  _University Child Development School_, _Seattle, WA_
