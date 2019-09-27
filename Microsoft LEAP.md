@@ -10,7 +10,7 @@
 
 **PROJECT ARCHITECT** &nbsp;&nbsp; _August 2017-May 2019_
 <br />
-***Patano Studio Architecture*** &nbsp;&nbsp;_Seattle, WA_
+&nbsp;&nbsp;***Patano Studio Architecture*** &nbsp;&nbsp;_Seattle, WA_
   - Assist teachers in implementing curriculum
   - Work one-on-one with students who need additional support
   - Provide additional social, emotional, and academic support during the Extended Day program after school
@@ -19,7 +19,7 @@
 
 **ARCHITECTURAL DESIGNER** &nbsp;&nbsp; _Nov 2016-May 2017_
 <br />
-***Shultz + Associate Architects*** &nbsp;&nbsp;_Fargo, ND_ 
+&nbsp;&nbsp;***Shultz + Associate Architects*** &nbsp;&nbsp;_Fargo, ND_ 
   - Collaborate with senior teachers to design and implement challenging curricula,​ a​nd reflect on the process and results
   - Create individualized goals for each student and provide personalized support
   - Co­lead Extended Day Program one morning each week
