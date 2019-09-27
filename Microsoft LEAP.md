@@ -41,14 +41,14 @@ through hands­ on activities
 
 ## _Education_
 **UDemy**
-<br />
-*Fundamentals of User Experience Design | 2019* 
+  - *User Experience Design Essentials | 2019*
+  - *Principles + Practices of Great UI Design | 2019*
   
 **North Dakota State University**
 <br />
   *Master of Architecture | 2014-2017*  
   
-**University of Utah** &nbsp;&nbsp;  _2006-2008_
+**University of Utah**
 <br />
 *B.S. in Architecture | 2008*
   
