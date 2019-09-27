@@ -40,9 +40,10 @@ through hands­ on activities
 ***
 
 ## _Education_
-**UDemy** <br />
-*User Experience Design Essentials - Adobe XD UI UX Design | 2019* <br />
-*Principles + Practices of Great UI Design: Strategy, Design, Development | 2019* <br />
+**UDemy** | 2019 <br />
+*User Experience Design Essentials - Adobe XD UI UX Design <br />
+*DESIGN RULES: Principles + Practices of Great UI Design <br />
+*UX & Web Design Master Course: Strategy, Design, Development 
   
 **North Dakota State University** <br />
   *Master of Architecture | 2014-2017*  
