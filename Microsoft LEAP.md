@@ -1,6 +1,8 @@
-<h1 align="center"> NATALIA JARA </h1>
+# NATALIA JARA
+***
 <h5 align="center"> Seattle, WA 98119 | (701) 318 - 8954 | nataliaajara@gmail.com | <a href="https://github.com/nataliaajara">GitHub.com/nataliaajara</a></h5>
 
+***
 
 
 <h2> <em>Work Experience</em> </h2>
