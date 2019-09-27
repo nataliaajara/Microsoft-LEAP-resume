@@ -44,7 +44,8 @@ through hands­ on activities
   - Fundamentals of User Experience 
   
 **North Dakota State University** &nbsp;&nbsp;  _2014-2017_
-***Master of Architecture***  
+<br />
+*Master of Architecture*  
   
 **University of Utah** &nbsp;&nbsp;  _2006-2008_
   - Bachelor of Science in Architecture
