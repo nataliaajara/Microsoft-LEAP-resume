@@ -38,7 +38,7 @@ through hands­ on activities
 ***
 
 ## _Education_
-**North Dakota State University** &nbsp; _May 2017_
+**North Dakota State University** &nbsp; | _2014 - 2017_
 <br />
 - Master of Architecture
   - _Peter F. McKenzie Award Finalist (2nd place)_
