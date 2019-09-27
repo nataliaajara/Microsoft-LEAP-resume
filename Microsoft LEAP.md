@@ -54,7 +54,7 @@ through handsn activities
 &nbsp;&nbsp;*UX & Web Design Master Course: Strategy, Design, Development | 2019* 
   
 **North Dakota State University** <br />
-&nbsp;&nbsp;*Master of Architecture | 2014-2017*  
+&nbsp;&nbsp;*Master of Architecture | 2017*  
   
 **University of Utah** <br />
 &nbsp;&nbsp;*B.S. in Architecture | 2008*
