@@ -40,18 +40,18 @@ through handsn activities
 
 ## _Education_
 **UDemy** <br />
-&nbsp;*User Experience Design Essentials - Adobe XD UI UX Design | 2019* <br />
-&nbsp;*DESIGN RULES: Principles + Practices of Great UI Design | 2019* <br />
-&nbsp;*UX & Web Design Master Course: Strategy, Design, Development | 2019* 
+&nbsp;&nbsp;*User Experience Design Essentials - Adobe XD UI UX Design | 2019* <br />
+&nbsp;&nbsp;*DESIGN RULES: Principles + Practices of Great UI Design | 2019* <br />
+&nbsp;&nbsp;*UX & Web Design Master Course: Strategy, Design, Development | 2019* 
   
 **North Dakota State University** <br />
-  *Master of Architecture | 2014-2017*  
+&nbsp;&nbsp;*Master of Architecture | 2014-2017*  
   
 **University of Utah** <br />
-*B.S. in Architecture | 2008*
+&nbsp;&nbsp;*B.S. in Architecture | 2008*
   
 **Salt Lake Community College** <br />
-*A.S. in Architecture | 2006*
+&nbsp;&nbsp;*A.S. in Architecture | 2006*
   
 ## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
