@@ -41,16 +41,19 @@ through hands­ on activities
 
 ## _Education_
 **UDemy** &nbsp;&nbsp;  _2019_
+<br />
 *Fundamentals of User Experience* 
   
 **North Dakota State University**
 <br />
-*Master of Architecture | 2014-2017*  
+  *Master of Architecture | 2014-2017*  
   
 **University of Utah** &nbsp;&nbsp;  _2006-2008_
+<br />
 *B.S. in Architecture*
   
 **Salt Lake Community College**
+<br />
 *A.S. in Architecture*
   
 ## _Projects_
