@@ -42,7 +42,7 @@ through hands­ on activities
 ## _Education_
 **North Dakota State University** &nbsp;&nbsp; | _2014 - 2017_
 <br />
-- Master of Architecture
+- Master of Architecture | _2014-2017_
   
 ## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
