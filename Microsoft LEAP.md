@@ -41,7 +41,8 @@ through hands­ on activities
 **North Dakota State University** &nbsp; _May 2017_
 <br />
 - Master of Architecture
-  - Peter F.
+  - _Peter F. McKenzie Award Finalist (2nd place)| Outstanding Design Thesis in Architecture_
+    - _Outstanding Design Thesis in Architecture_
 ## _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
   - Mock portfolio webpage created using HTML, CSS, and bootstrap
