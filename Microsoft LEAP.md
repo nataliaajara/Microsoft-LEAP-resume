@@ -72,6 +72,6 @@
   - English (bilingual), Spanish (native).
   
 **Other**
-  - Laser Cutter 3D printer, Wood Turning (lathe), MIG Welding, CNC Milling, Woodworkin.
+  - Laser Cutter 3D printer, Wood Turning (lathe), MIG Welding, CNC Milling, Woodworking.
   
 
