@@ -11,11 +11,12 @@
 **PROJECT ARCHITECT** &nbsp;&nbsp; _August 2017-May 2019_
 <br />
 &nbsp;&nbsp;***Patano Studio Architecture*** &nbsp;&nbsp;_Seattle, WA_
-  - Assist teachers in implementing curriculum
-  - Work one-on-one with students who need additional support
-  - Provide additional social, emotional, and academic support during the Extended Day program after school
-  - Review and grade student work
-  - Ensure that all materials are ready as needed for classroom work
+  - Managed multiple residential and commercial projects from schematic design through succesful closeout.
+  - Coordinated project with cross-functional teams including designers, engineers, contractors and project managers.
+  - Led construction meetings on-site; evaluated, reviewed and responded to RFI's, change orger requests and shop drawings.
+  - Conducted site visits and drafted as-built documents.
+  - Produced 3D models and renderings for client presentations.
+  - Clients included SeaTac International Airport, Vashon Island School District, Washington State Parks and Recreation.
 
 **ARCHITECTURAL DESIGNER** &nbsp;&nbsp; _Nov 2016-May 2017_
 <br />
