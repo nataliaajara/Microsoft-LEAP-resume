@@ -11,7 +11,8 @@
 **PROJECT ARCHITECT** &nbsp;&nbsp; _August 2017-May 2019_
 <br />
 &nbsp;&nbsp;***Patano Studio Architecture*** &nbsp;&nbsp;_Seattle, WA_
-  - Managed multiple residential and commercial projects from schematic design through succesful closeout.
+  - Actively managed multiple residential and commercial projects from schematic design through succesful closeout.
+  - Conducted meetings with clients; synthesized the needs and desires of the users to produce a suitable design solution.
   - Coordinated project with cross-functional teams including designers, engineers, contractors and project managers.
   - Led construction meetings on-site; evaluated, reviewed and responded to RFI's, change orger requests and shop drawings.
   - Conducted site visits and drafted as-built documents.
@@ -21,21 +22,16 @@
 **ARCHITECTURAL DESIGNER** &nbsp;&nbsp; _Nov 2016-May 2017_
 <br />
 &nbsp;&nbsp;***Shultz + Associate Architects*** &nbsp;&nbsp;_Fargo, ND_ 
-  - Collaborate with senior teachers to design and implement challenging curricula,​ a​nd reflect on the process and results
-  - Create individualized goals for each student and provide personalized support
-  - Co­lead Extended Day Program one morning each week
-  - Provide homework support at Home Learning and Thinking Club a few times per month
-  - Work with other faculty on Technology and Communication Committee
-  - Write detailed reports for students evaluating writing, math, reading, and reflective thinking skills
+  - Assisted with the production of construction documents, digital models, renderings, material boards & site surveying.
+  - Produced graphics for marketing & presentation purposes.
+  - Projects included multi-family residential, commercial offices and mixed-used design projects.
 
 **ARCHITECTURAL INTERN + GRAPHICS SPECIALIST** &nbsp;&nbsp; _Apr 2012-Sept 2016_
 <br />
 &nbsp;&nbsp;***LJA Architects & Engineers*** &nbsp;&nbsp;_Fargo, ND_ 
-  - Design 20­-40 minute modules to teach children (grades 1​ through 12​) different subjects, including meteorology, physics, geology, astronomy, and biology
-  - Teach local school groups of 20-­30 children (grades 1​ through 12​) about scientific principles
-through handsn activities
-  - Lead weekly tours through the Colgate geology museum for school groups and community members to become engaged
-  - Collaborate with other science outreach educators and supervisor to design schedule of activities suitable for the age and interests of different school groups
+  - Managed multiple hospitality, retail and commercial projects accross all phases of the design and construction process.
+  - Produces graphics for marketing & presentation purposes.
+  - Collaborated with engineers, consultants, surveyors and contractors to derive optimized design solutions for various building projects.
 
 ***
 
@@ -66,13 +62,16 @@ through handsn activities
 ***
 
 ## _Skills_
-**Software**
+**Tools**
   - Adobe XD, Illustrator, InDesign, Photoshop, SketchUp, AutoCAD, Revit, ArchiCAD, 3DStudio Max, Rhino, Grasshopper
 
 **Design**
-  - Adobe XD, Illustrator, InDesign, Photoshop, SketchUp, AutoCAD, Revit, ArchiCAD, 3DStudio Max, Rhino, Grasshopper
+  - Design Research, User Interviews, Prototyping, Wireframing, Sketching & Storyboarding, Project Management,
   
 **Languages**
   - English (bilingual), Spanish (native).
+  
+**Other**
+  - Laser Cutter 3D printer, Wood Turning (lathe), MIG Welding, CNC Milling, Woodworkin.
   
 
