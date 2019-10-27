@@ -63,10 +63,10 @@
 
 ## _Skills_
 **Tools**
-  - Adobe XD, Illustrator, InDesign, Photoshop, SketchUp, AutoCAD, Revit, ArchiCAD, 3DStudio Max, Rhino, Grasshopper
+  - Adobe XD, Sketch, Figma, Illustrator, InDesign, Photoshop, SketchUp, AutoCAD, Revit, ArchiCAD, 3DStudio Max, Rhino, Grasshopper
 
 **Design**
-  - Design Research, User Interviews, Prototyping, Wireframing, Sketching & Storyboarding, Project Management,
+  - Design Research, User Interviews, Prototyping, Wireframing, Sketching & Storyboarding, Project Management
   
 **Languages**
   - English (bilingual), Spanish (native).
