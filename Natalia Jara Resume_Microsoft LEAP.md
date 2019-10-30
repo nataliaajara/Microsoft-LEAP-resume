@@ -6,6 +6,10 @@
 
 ***
 
+## _About_
+
+***
+
 ## _Work Experience_
 
 **PROJECT ARCHITECT** &nbsp;&nbsp; _August 2017-May 2019_
