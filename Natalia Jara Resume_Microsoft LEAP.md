@@ -35,15 +35,6 @@
 
 ***
 
-## _Projects_
-**Portfolio Bootstrap Website** &nbsp; _Summer 2016_
-  - Mock portfolio webpage created using HTML, CSS, and bootstrap
-  
-**Recipe Sorter Webpage** &nbsp; _Summer 2016_
-  - Webpage with recipes sorted by category, with images and links to the original recipe website.
-  
-***
-
 ## _Education_
 **UDemy** <br />
 &nbsp;&nbsp;*User Experience Design Essentials - Adobe XD UI UX Design | 2019* <br />
@@ -66,7 +57,7 @@
   - Adobe XD, Sketch, Figma, Illustrator, InDesign, Photoshop, Basic HTML, Basic CSS, SketchUp, AutoCAD, Revit, ArchiCAD, 3DStudio Max, Rhino, Grasshopper
 
 **Design**
-  - Design Research, User Interviews, Prototyping, Wireframing, Sketching & Storyboarding, Project Management
+  - Design Research, User Interviews, Prototyping, Wireframing, Sketching & Storyboarding, Cross-Functional Team Collaboration, Project Management
   
 **Languages**
   - English (bilingual), Spanish (native).
