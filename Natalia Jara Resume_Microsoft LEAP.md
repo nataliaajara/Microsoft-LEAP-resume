@@ -8,6 +8,8 @@
 
 ## _About_
 
+I'm a UX Designer 
+
 ***
 
 ## _Work Experience_
