@@ -8,7 +8,14 @@
 
 ## _About_
 
-I'm a UX Designer 
+I’m a professionally trained Architect pivoting my career into UX Design. I’m passionate about solving problems and creating designs that enhance the experiences of the collective and individuals, whether these experiences are physical or digital. 
+
+I believe my background in Architecture has equipped me with an invaluable skill set that is essential to becoming a successful UX Designer. The training I have received in architecture school, as well as my experience working in the professional design field, has taught me the important reality of being able to perform creatively and efficiently while dealing with demanding timelines, numerous project deliverables and budget constraints. I’m a firm believer that in order be a successful designer, one has to be a great collaborator and team-player, an excellent communicator and listener, and be able to thrive and be comfortable with ambiguity.
+
+I’m always looking for new challenges, and exciting opportunities to further my personal and professional growth. I believe knowledge has to be improved, challenged, and increased constantly, otherwise it vanishes. I’ve taken a new challenge in pivoting my career from Architecture into UX Design. I’m self-taught by reading various books, taking online courses and attending local UX Design meetups. I know I have yet a lot to learn and that’s the most exciting part.
+
+I feel I would be a great fit and asset for the Microsoft Leap program. I’m eager to keep learning more about UX Design and to get an opportunity to gain real hands-on experience in this field. It would be very exciting to be a part of the Microsoft team!
+
 
 ***
 
